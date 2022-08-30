@@ -6,6 +6,7 @@
   margin-left: auto;
   margin-right: auto;
 }
+
 body {
             background-color: white;
             margin: 5%
@@ -35,10 +36,8 @@ figure{
 }
 li strong{
            color: green;
-           font-size:18px;
-}
+           font-size:18px;}
 
-}
         #figcaption {
             font-size: 17px;
             font-family: Gill Sans;
